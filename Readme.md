@@ -1,2 +1,3 @@
-"# Ol�, somos o 2 AMS!" 
-# Ol�, somos o 2 AMS! 
+# Olá, somos o 2 AMS! 
+
+Somos uma sala falante, mas muito esforçada! Aqui, estamos estudando Sistemas Web e Computação em Nuvem com a prof. Camila.
